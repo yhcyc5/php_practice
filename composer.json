@@ -1,0 +1,17 @@
+{
+    "name": "irt/sce",
+    "autoload": {
+        "psr-4": {
+            "irt\\sce\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "IRT",
+            "email": "irt@inforise.com.tw"
+        }
+    ],
+    "require": {
+        "phpoffice/phpword": "1.2.0"
+    }
+}
